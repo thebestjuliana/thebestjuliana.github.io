@@ -1,0 +1,81 @@
+header{
+    background-color: rgba(147, 186, 216, 0.918);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size:400%;
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+   
+}
+#HeaderDiv{
+    font-size: 30%;
+    font-weight: 540;
+    
+}
+
+.realBody{
+    padding-top: 10%;
+    text-align: center;
+    
+}
+section
+{
+    
+    border:2px solid black;
+    margin: 1%;
+    width: 30.5%;
+    float: left;
+    align-items: flex-start;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer{
+    background-color: rgba(12, 51, 134, 0.836);
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 12%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size:200%;
+    color: whitesmoke;
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+   
+}
+#FooterDiv{
+    font-size: 50%;
+    font-weight: 550;
+    color:whitesmoke;
+    word-spacing: initial;
+    
+}
+a:link {
+    color:whitesmoke;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color:palevioletred;
+    background-color: transparent;
+    text-decoration: underline;
+  }
