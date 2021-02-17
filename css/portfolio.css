@@ -62,19 +62,19 @@ footer{
     
 }
 a:link {
-    color:whitesmoke;
+    color:black;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:visited {
-    color: pink;
+    color: blue;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:hover {
-    color:palevioletred;
+    color:rgb(167, 30, 76);
     background-color: transparent;
     text-decoration: underline;
   }
